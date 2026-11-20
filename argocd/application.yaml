@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/rkvperpetual/devops-crud-app-gitops.git
+    repoURL: https://github.com/skvengg/devops-crud-app-gitops.git
     targetRevision: main
     path: helm/devops-task-manager
 
